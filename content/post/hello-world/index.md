@@ -1,6 +1,6 @@
 +++
 title = "Hello World"
-date = "2022-02-19"
+date = "2022-02-20"
 description = "First post of this blog."
 tags = [
     "c-language",
