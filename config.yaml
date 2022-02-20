@@ -59,7 +59,7 @@ params:
 
     disqusjs:
       shortname: windows-customization
-      apiUrl:
+      apiUrl: https://windows-customization.disqus.com/embed.js
       apiKey:
       admin:
       adminLabel:
