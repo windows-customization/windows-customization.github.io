@@ -12,6 +12,7 @@ menu:
         weight: -90
         params:
             icon: user
+comments: false
 links:
   - title: Me
     description: My GitHub profile.
