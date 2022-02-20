@@ -58,7 +58,7 @@ params:
     provider: disqus
 
     disqusjs:
-      shortname:
+      shortname: windows-customization
       apiUrl:
       apiKey:
       admin:
